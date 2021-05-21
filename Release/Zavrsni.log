@@ -1,0 +1,11 @@
+﻿  Borac.cpp
+  Borba.cpp
+  main.cpp
+D:\Fakultet\Objektno Programiranje\Bašek_Bedenic\Zavrsni\main.cpp(52,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Oruzje.cpp
+  Generating code
+  185 of 192 functions (96.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Zavrsni.vcxproj -> D:\Fakultet\Objektno Programiranje\Bašek_Bedenic\Release\Zavrsni.exe
