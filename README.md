@@ -17,13 +17,16 @@
 
 To clone and run this application, you'll need C++ compiler that works for you (tried and made with Visual Studio Community).
 
+
+Clone this repository
 ```bash
-# Clone this repository
 $ git clone https://github.com/DBDoco/Fight-Simulator.git
-
-# Go into the repository
-$ cd Fight-Simulator-main
-
-# Open project folder with favorite C++ compiler and run main.cpp
 ```
+
+Go into the repository
+```bash
+$ cd Fight-Simulator-main
+```
+Open project folder with favorite C++ compiler and run main.cpp
+
 
